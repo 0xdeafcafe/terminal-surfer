@@ -1,4 +1,4 @@
-# subway surfer 🏃‍♂️🚃
+# terminal subway surfer 🏃‍♂️🚃
 
 a lil 🤏 ASCII endless dodger. watch the lil guy play chicken with trains, hoards coins, and vibe until you kill him.
 
