@@ -1,8 +1,6 @@
 # subway surfer 🏃‍♂️🚃
 
-a lil 🤏 ASCII endless runner that lives in your terminal
-
-a stick figure auto-dodges trains, hoards coins, and vibes in traffic on your termianl.
+a lil 🤏 ASCII endless dodger. watch the lil guy play chicken with trains, hoards coins, and vibe until you kill him.
 
 ## run it 🏎️
 
